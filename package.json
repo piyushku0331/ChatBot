@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/piyushku0331/ChatBot#readme",
+  "bugs": {
+    "url": "https://github.com/piyushku0331/ChatBot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushku0331/ChatBot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
